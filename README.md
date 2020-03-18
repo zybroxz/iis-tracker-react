@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Updates the position of the International Space Station every x seconds
 
 ## Available Scripts
 
